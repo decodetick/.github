@@ -1,4 +1,4 @@
-## rozkoduj
+## decodetick
 
 Decoding trading with AI: research, tools, experiments.
 
